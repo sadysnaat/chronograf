@@ -1,4 +1,6 @@
 # Chronograf
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsadysnaat%2Fchronograf.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsadysnaat%2Fchronograf?ref=badge_shield)
+
 
 Chronograf is an open-source web application written in Go and React.js that
 provides the tools to visualize your monitoring data and easily create alerting
@@ -224,3 +226,7 @@ The swagger JSON document is in `server/swagger.json`
 
 Please see the [contributing guide](CONTRIBUTING.md) for details on contributing
 to Chronograf.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsadysnaat%2Fchronograf.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsadysnaat%2Fchronograf?ref=badge_large)
